@@ -16,7 +16,8 @@ This suggest that these models are better suited for cooling load predictions, w
 It is important to keep in mind that the heating and cooling loads are not measurements but results of calculations depending heavily on location as they take into account parameters such as external temperatures and humidity, but also relative compactness of the buildings, which was one of the features of the dataset, meaning that hidden correlations should be expected.
 Nonetheless, these types of models could have great applications in decision making, for exemple when renovating old buildings, or building new ones from used containers (cargotecture), helping providing homes to populations economically challenged.
 
-Links:
-dataset
-initial paper
-slides
+
+Links: 
+[dataset](https://archive.ics.uci.edu/dataset/242/energy+efficiency) 
+[initial paper](https://tarjomefa.com/wp-content/uploads/2017/04/6453-English-TarjomeFa.pdf) 
+[presentation slides](https://docs.google.com/presentation/d/1im77Wrsr5blo4tA6FkJlW_Sh2QWNoUlTxYuWttJBvo4/edit?pli=1#slide=id.g65a5c374d8_0_179)
